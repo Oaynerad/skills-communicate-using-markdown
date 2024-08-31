@@ -9,3 +9,6 @@ for i in range(10):
   i=i+1
 print(i)
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
